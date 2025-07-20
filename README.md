@@ -53,4 +53,4 @@ This repository contains:
 * A presentation pdf containing a brief on the project.
 
 The testing and training data was obtained from:
-(DrivenData. (2020). Flu Shot Learning: Predict H1N1 and Seasonal Flu Vaccines. Retrieved [Month Day Year] from https://www.drivendata.org/competitions/66/flu-shot-learning.)
+(DrivenData. (2020). Flu Shot Learning: Predict H1N1 and Seasonal Flu Vaccines. Retrieved [10/7/2025] from https://www.drivendata.org/competitions/66/flu-shot-learning.)
